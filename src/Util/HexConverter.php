@@ -15,11 +15,6 @@ class HexConverter
     private $hex = '000000';
 
     /**
-     * @var string $default
-     */
-    private $default = 'rgba(0,0,0,1.0)';
-
-    /**
      * @var array $convert
      */
     private $convert = [];
